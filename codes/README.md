@@ -40,11 +40,11 @@ This code also presents an example of boxplot generation for a single tag, for a
 
 Boxplot example:
 
-![Balanced boxplot of the tag food](/dataset/boxplot-example-food.jpg "Example of balanced boxplot, using the tag 'food'")
+![Balanced boxplot of the tag food](/images/boxplot-example-food.jpg "Example of balanced boxplot, using the tag 'food'")
 
 Dataset used:
 
-![Sample of dataset used](/dataset/structured-data.jpg "Sample of dataset used")
+![Sample of dataset used](/images/structured-data.jpg "Sample of dataset used")
 
 In the dataset, each line refers to an image, and each column refers to a tag. All tags are presented, and the value 0 or 1 identifies if that tag is present or not in the image. The final column is the depend variable, the amount of likes the image received.
 
