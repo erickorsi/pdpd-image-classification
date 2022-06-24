@@ -5,7 +5,7 @@ Repo for my research project about *A Machine Learning Study to Classify Social 
 
 PDPD: ***P**esquisando **D**esde o **P**rimeiro **D**ia* - Research Project on the first year of college at *Universidade Federal do ABC* (UFABC), in Brazil. Official paper number 02/2017, with research grant.
 
-Supervisor: Prof. Dr. Alexandre Noma.
+Supervisor: Dr. Alexandre Noma.
 
 It is important to note that this project was developed in 2017-2018 and possibly may not be repeated today in the same method.
 
