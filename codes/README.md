@@ -15,12 +15,12 @@ The access tokens used in the project have been inactive for a long time now.
 
 Using *Facebook Graph API*. Code within **extract-image-tag.py**.
 
-- About <a href="https://developers.facebook.com/docs/facebook-login/access-tokens/#pagetokens" title="https://developers.facebook.com/docs/facebook-login/access-tokens/#pagetokens" target="_blank">Facebook Access Tokens</a>.<br>
+- About <a href="https://developers.facebook.com/docs/facebook-login/access-tokens/#pagetokens" title="https://developers.facebook.com/docs/facebook-login/access-tokens/#pagetokens">Facebook Access Tokens</a>.<br>
 "*To generate a page access token, an admin of the page must grant an extended permission called manage_pages.*"
-- About <a href="https://developers.facebook.com/docs/facebook-login/permissions/#reference-manage_pages" title="https://developers.facebook.com/docs/facebook-login/permissions/#reference-manage_pages" target="_blank">Permissions</a>.<br>
+- About <a href="https://developers.facebook.com/docs/facebook-login/permissions/#reference-manage_pages" title="https://developers.facebook.com/docs/facebook-login/permissions/#reference-manage_pages">Permissions</a>.<br>
 "*require that you have Client OAuth Login enabled for your app on the Facebook Login tab of your app dashboard.*"
-- About <a href="https://oauth.net/getting-started/" title="https://oauth.net/getting-started/" target="_blank">OAuth Login</a>.
-- GraphAPI <a href="https://developers.facebook.com/docs/graph-api/reference/page/" title="https://developers.facebook.com/docs/graph-api/reference/page/" target="_blank">Reference</a>.
+- About <a href="https://oauth.net/getting-started/" title="https://oauth.net/getting-started/">OAuth Login</a>.
+- GraphAPI <a href="https://developers.facebook.com/docs/graph-api/reference/page/" title="https://developers.facebook.com/docs/graph-api/reference/page/">Reference</a>.
 
 The public Facebook page **@ajudeaacd** from which they were extracted granted permission and access at the time and no longer exists on Facebook.
 
@@ -28,7 +28,7 @@ The public Facebook page **@ajudeaacd** from which they were extracted granted p
 
 Using *Miscrosoft Azure Computer Vision*. Code within **extract-image-tag.py**.
 
-- Computer Vision <a href="https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/overview-image-analysis" title="https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/overview-image-analysis" target="_blank">Reference</a>.
+- Computer Vision <a href="https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/overview-image-analysis" title="https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/overview-image-analysis">Reference</a>.
 
 The tags obtained from the images are inside the **_Extracted_Tags.zip** compressed folder.
 
@@ -52,10 +52,10 @@ In the dataset, each line refers to an image, and each column refers to a tag. A
 
 Using *Scikit-Learn* libraries:
 
-- <a href="https://scikit-learn.org/stable/modules/naive_bayes.html" title="https://scikit-learn.org/stable/modules/naive_bayes.html" target="_blank">Naive Bayes</a>.
-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html" target="_blank">Decision Tree Classifier</a>.
-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" target="_blank">K Neighbors Classifier</a>.
-- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html" target="_blank">Support Vector Classifier</a>.
+- <a href="https://scikit-learn.org/stable/modules/naive_bayes.html" title="https://scikit-learn.org/stable/modules/naive_bayes.html">Naive Bayes</a>.
+- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html">Decision Tree Classifier</a>.
+- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html">K Neighbors Classifier</a>.
+- <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html" title="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html">Support Vector Classifier</a>.
 
 Using the dataset presented, with the *likes* column as the dependent variable (y) and all tags columns as the independent variables (x).
 
